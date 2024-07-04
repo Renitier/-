@@ -190,7 +190,7 @@ class InputHelper // Класс для ограничения ввода
         return int.Parse(input);
     }
 }
-internal class TodoList
+internal class Program
 {
     private static void Main()
     {
